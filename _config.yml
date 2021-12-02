@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 name: 隐私政策
 title: 隐私政策
-exclude: [".header"]
+show_downloads: false
